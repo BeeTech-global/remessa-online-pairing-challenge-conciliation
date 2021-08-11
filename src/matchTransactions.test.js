@@ -34,7 +34,7 @@ describe("matchTransactions()", () => {
                 expect.arrayContaining([1000102, 1000103, 1000104, 1000111]));
 
             expect(output.missing).toEqual(
-                expect.arrayContaining([1000100, 1000100]));
+                expect.arrayContaining([1000100, 1000110]));
         });
     });
 });
