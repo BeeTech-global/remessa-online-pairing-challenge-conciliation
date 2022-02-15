@@ -7,7 +7,7 @@
  * Implement a function that:
  *   * takes no arguments;
  *   * is asynchronous;
- *   * reads the contents from `../data/transactions.csv`, which contains
+ *   * reads the contents from `./data/transactions.csv`, which contains
  *     a list of internal transactions;
  *   * converts the information from the CSV into a `status -> id[]` map:
  *     `{ statusA: [ 100, 101 ], statusB: [102, ...], ...}`;
