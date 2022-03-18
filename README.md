@@ -1,7 +1,7 @@
 Background Information
 ======================
 
-BeeTech offers payments to all over the world.
+RemessaOnline offers payments to all over the world.
 As a consequence, we have bank accounts to collect payments locally before sending them globally.
 
 Periodically, the banks will send us a list of money transfers which they have received. We
